@@ -149,3 +149,100 @@
        
 </body>
 </html>
+
+body{
+	background-color: #bdbdbd;
+}
+.container{
+	background-color: #fafafa ;
+	border: 1px solid #000000;
+}
+h4{
+	margin-left: 25px;
+}
+img {
+	margin-top: -10px;
+	margin-bottom: -5px;
+    float: left;  
+}
+.collection{
+	 border: 2px solid #e0e0e0;
+	 box-shadow: 0px 1px 10px #e0e0e0; /* Sombra */
+	margin-right: 0px;
+     margin-left: 25px; 
+
+}
+.collection.with-header{
+	float: left;
+	margin-bottom: 25px;
+	margin-left: 0px;
+	margin-right: 25px;
+    border: 1px solid #000000;
+    box-shadow: 0px 3px 10px  #9e9e9e; /* Sombra */
+    position: relative;
+    top:-50px;
+    z-index: 5;
+    
+}
+
+.parrafo{
+	position: relative;
+	left: 5px;
+	font-family: 'Arial';
+}
+
+.waves-effect.waves-light.btn {
+	top: -10px;
+	left: 10px;
+}
+#links {
+    width: 100%;
+    height: 30px;
+    left: 0;
+    text-align: left;
+      
+}
+.icono {
+    float: left;
+    margin: 5px;
+    position: relative;
+    top: -150px;
+    left: 20px;
+}
+
+.links{
+	position: absolute;
+	left: 290px;
+}
+.cuadro{
+	position: relative;
+	top: -50px;
+	bottom: 0px;
+}
+
+.fecha{
+
+    left:0px;
+    position: relative;
+    top: -90px;
+    font-size: 25px;
+    text-align: center;
+    
+
+}
+
+.palabra{
+	text-align: justify;
+    font-size: 15px;
+    position: relative;
+    top: -125px;
+    right: 250px;
+}
+.ultimo {
+	   float: left;
+    text-align: center;
+    position: relative;
+    left: 350px;
+    top: -90px;
+}
+
